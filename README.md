@@ -1,6 +1,6 @@
 # Building-Image-Dataset
 
-Custom Building Image Dataset for Rooftop Detection , Classification and Segmentation.
+Custom Building Image Dataset for Rooftop Detection, Classification, and Segmentation.
 Custom Labels - 
 1. Building-Roof 
 2. Commercial-Flat-Roof
@@ -28,7 +28,7 @@ Some of the commonly used formats of files used for Machine Learning are uploade
 3. YOLO v5 PyTorch 
        
 
-You can use the below link to get access to dataset.
+You can use the below link to get access to the dataset.
 
 https://universe.roboflow.com/ayush-wattal-ritu-bhamrah-ritanjali-jena-sai-kumar-sannidhi/building-image
 
