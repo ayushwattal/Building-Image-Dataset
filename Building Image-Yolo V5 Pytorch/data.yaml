@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 13
+names: ['Building-Roof', 'Commercial-Flat-Roof', 'Commercial-Slope-Roof', 'Construction-Area', 'Flat Roof', 'Playground', 'Slope-Flat-Roof', 'Slope-Roof', 'Solar-Flat-Roof', 'Solar-Pannel-Ground', 'Solar-Slope-Roof', 'TreeShading-Slope-Roof', 'Unknownshape-Roof']
+
+roboflow:
+  workspace: project
+  project: building-image
+  version: 17
+  license: Public Domain
+  url: https://universe.roboflow.com/project/building-image/dataset/17
